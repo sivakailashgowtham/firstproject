@@ -1,0 +1,4 @@
+In statically typed language  type checking is  at compile time while in dynamically typed language it is at run time,type of variable is known at compile time in statically typed lang while in dynamically typed lang type of variable is checked during run time
+
+
+the main difference between programming and scripting lang is program languages are compiled and need a compilation step to convert into machine code,while scipting language do not need a compilation step rather it is interprted
