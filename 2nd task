@@ -1,0 +1,3 @@
+HTTP stands for hyper text transfer protocol,earlier version is HTTP 1,HTTP 1 loads single request for every TCP connection which causes delay,to overcome this HTTP2 comes it avoids network delay by using multiplexing
+
+Objects in java script is an unordered collection of related data in the form of "key":"value" pairs.
